@@ -5,7 +5,7 @@ _Este es un proyecto de introducción a Scraping con .NetCore_
 
 ### Pre-requisitos 📋
 
-_Visual Sutdio con .NetCore_
+_Visual Studio con .NetCore_
 
 _ChromeDriver_
 
