@@ -1,7 +1,5 @@
 # Como Hacer Scraping con .NetCore
 
-_This is a project to be used as example, where Object Pooling pattern design is implemented_
-
 _Este es un proyecto de introducción a Scraping con .NetCore_
 
 
